@@ -1,7 +1,6 @@
 ### Oláá!!
 Seja Bem-Vindo ao meu Perfil 👋
 
-- 🔭 CTO - Proog
 - 🏫 Faço Faculdade de Analise e Desenvolvimento de Sistemas
 - 📫 Entre em contato em: ezequielmhonorato@hotmail.com
 
