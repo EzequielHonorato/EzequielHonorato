@@ -1,7 +1,7 @@
-### Oláá!!
+### Olá!!
 Seja Bem-Vindo ao meu Perfil 👋
 
-- 🏫 Faço Faculdade de Analise e Desenvolvimento de Sistemas
+- 🏫 Cursando Análise e Desenvolvimento de Sistemas
 - 📫 Entre em contato em: ezequielmhonorato@hotmail.com
 
 <div align="center">
